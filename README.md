@@ -72,7 +72,7 @@ selenium-ci-cd-github-actions/
 │           └── com/
 │               └── cicd/
 │                   └── LoginTest.java   ← Selenium test class (3 test methods)
-├── testng.xml                           ← TestNG suite configuration
+├── testing.xml                          ← TestNG suite configuration
 ├── pom.xml                              ← Maven dependencies
 ├── docs/
 │   ├── 01_cicd_concepts.md              ← What CI/CD is and why QA needs it
